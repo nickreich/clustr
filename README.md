@@ -1,8 +1,5 @@
-## Visualizing Bike Sharing Systems 
+## Visualizing Distributions of Cluster-Level Outcomes for Cluster Randomized Trial Design 
 
-This repo contains the writeup and code for a tutorial on how to visualize bike sharing systems using rCharts and Shiny.
+This repo contains the writeup and code for visualizing hypothesized cluster-level outcomes for assiting with cluster-randomized trial design.
 
-<a href="http://glimmer.rstudio.com/ramnathv/BikeShare">
-<img src=http://www.clipular.com/c?10951071=aD5PWoWf3MjZaDGbvSxV7ZyIeM4&f=.png>
-</img>
-</a>
+The site design was adapted from [ramnathv's bikeshare page](http://ramnathv.github.io/bikeshare).
