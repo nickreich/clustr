@@ -22,10 +22,10 @@ plot_clustr_distr_logistic <- function(dat){
         print(pp)
 }
 
-plot_clustr_distr_poisson <- function(pi_response, sigma2_alpha, at_risk_time=10){
-        ## set model parameters
-        pi <- log(pi_response)
-        s <- sqrt(sigma2_alpha)
-        ## determine range of log-normal distribution 
-        y <- rlnorm()
-}
+# plot_clustr_distr_poisson <- function(pi_response, sigma2_alpha, at_risk_time=10){
+#         ## set model parameters
+#         pi <- log(pi_response)
+#         s <- sqrt(sigma2_alpha)
+#         ## determine range of log-normal distribution 
+#         y <- rlnorm()
+# }

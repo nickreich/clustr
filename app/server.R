@@ -18,7 +18,7 @@ shinyServer(function(input, output, session){
                         plot_clustr_distr_logistic(distr_data()$dat)
                 }
                 if(input$model=="poisson"){
-                        plot_clustr_distr_poisson(       
+                        #plot_clustr_distr_poisson()       
                 }
                 #switch(input$model,
                 #       "logistic" = plot_clustr_distr_logistic(),
